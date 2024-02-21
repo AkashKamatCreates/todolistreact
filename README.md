@@ -1,6 +1,6 @@
 # React Todo List Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- react application which provides input box for task input, edit button for tasks, done checkbox and delete button.
 
 ## Features
 - add task
